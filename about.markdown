@@ -32,6 +32,11 @@ Money transfer app based in Cairo. It then got acquired by Dapi and became a Saa
 - [Dayra: YC Startup School Grant \| Menabytes][DayraYCNewsMenabytes].
 - [Dayra: YC Startup School Grant \| YC][DayraYCYC].
 
+#### Open source
+I love Swift! I spend some of my time reading PRs on how small changes were implemented, how those changes are tested, and how a discussion is evolved into a feature.
+
+This gained my interest, so I try to spend some time being an active contributor to the language.
+
 [CatchApp]: https://apps.apple.com/ae/app/catch-ads-that-give-rewards/id1484239082.
 [OpenBanking]: https://en.wikipedia.org/wiki/Open_banking
 [DapiSDK]: https://github.com/dapi-co/DapiSDK-iOS
