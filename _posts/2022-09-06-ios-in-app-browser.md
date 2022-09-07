@@ -76,7 +76,7 @@ When we released the app, we had a quite good attraction of technical and non-te
 
 My friend Joe, [tweeted][JoeTweet] that he was surprised banks support SSO. Another friend, Maged, [tweeted][MagedTweet] the same thing as well!
 
-While we spend our time and effort on making sure our users' credentials are safe and secure and implement the best security standard, this still violates their privacy. These banks invest in their security, and yet we were able to make their users think they support SSO. There was no guarantee this could have never happened to us. Luckily, we were acquired before anything could happen.
+While we spent our time and effort on making sure our users' credentials are safe and secure and implement the best security standard, this still violates their privacy. These banks invest in their security, and yet we were able to make their users think they support SSO. There was no guarantee this could have never happened to us. Luckily, we were acquired before anything could happen.
 
 **How can you avoid this in the future?**
 
