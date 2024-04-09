@@ -3,7 +3,7 @@ layout: post
 title:  "iOS Privacy: How we tricked our users into trusting us with their bank accounts"
 date:   2022-09-06 00:00:00 +0000
 categories: ios privacy
-published: true
+published: false
 ---
 
 Back in 2019, we founded a startup (Dayra) to be the Cash App of Egypt. Allowing users to connect their bank accounts, transfer money and see an overview of their spending.
