@@ -21,7 +21,7 @@
 title: Ennabah
 email: m@ennabah.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A personal website and blog posts about interseting stuff I find while fixing bugs.
+  A personal website and blog posts about interesting stuff I find while fixing bugs.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ennabah.com" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: ennabah
