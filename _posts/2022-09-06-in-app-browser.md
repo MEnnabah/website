@@ -2,7 +2,7 @@
 layout: post
 title:  "iOS Privacy: How we tricked our users into trusting us with their bank accounts"
 date:   2022-09-06 00:00:00 +0000
-categories: ios privacy
+categories: ios
 published: true
 ---
 

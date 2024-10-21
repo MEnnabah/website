@@ -27,6 +27,7 @@ url: "https://ennabah.com" # the base hostname & protocol for your site, e.g. ht
 linkedin_username: ennabah
 github_username: MEnnabah
 show_excerpts: true
+permalink: /:title
 
 # Build settings
 theme: minima
